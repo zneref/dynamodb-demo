@@ -1,0 +1,42 @@
+[
+  {
+    "year": 1999,
+    "title": "The Cider House Rules",
+    "info": {
+      "director": "Lasse Hallstrom",
+      "rating": 5
+    }
+  },
+  {
+    "year": 2011,
+    "title": "I Don't Know How She Does It",
+    "info": {
+      "director": "Douglas McGrath",
+      "rating": 4
+    }
+  },
+  {
+    "year": 2006,
+    "title": "A Scanner Darkly",
+    "info": {
+      "director": "Richard Linklater",
+      "rating": 5
+    }
+  },
+  {
+    "year": 2009,
+    "title": "It's Complicated",
+    "info": {
+      "director": "Nancy Meyers",
+      "rating": 3
+    }
+  },
+  {
+    "year": 1996,
+    "title": "Fear",
+    "info": {
+      "director": "James Foley",
+      "rating": 2
+    }
+  }
+]

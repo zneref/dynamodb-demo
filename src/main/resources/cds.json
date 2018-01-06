@@ -1,0 +1,47 @@
+[
+  {
+    "year": 2017,
+    "title": "Turn Up The Quiet PL",
+    "info": {
+      "author": "Diana Krall",
+      "tracksNum": 11,
+      "rating": 3
+    }
+  },
+  {
+    "year": 2009,
+    "title": "Kind Of Blue",
+    "info": {
+      "author": "Miles Davis",
+      "tracksNum": 6,
+      "rating": 5
+    }
+  },
+  {
+    "year": 2016,
+    "title": "Day Breaks (Deluxe Edition)",
+    "info": {
+      "author": "Norah Jones",
+      "tracksNum": 16,
+      "rating": 4
+    }
+  },
+  {
+    "year": 2014,
+    "title": "Polka",
+    "info": {
+      "author": "Wojtek Mazolewski Quintet",
+      "tracksNum": 12,
+      "rating": 3
+    }
+  },
+  {
+    "year": 2017,
+    "title": "I Know I Dream",
+    "info": {
+      "author": "Stacey Kent",
+      "tracksNum": 12,
+      "rating": 6
+    }
+  }
+]
