@@ -1,0 +1,47 @@
+[
+  {
+    "year": 2015,
+    "title": "Maszyna do pisania",
+    "info": {
+      "author": "Katrzyna Bonda",
+      "pagesNum": 319,
+      "rating": 3
+    }
+  },
+  {
+    "year": 2003,
+    "title": "Pentagram",
+    "info": {
+      "author": "Jo Nesbo",
+      "pagesNum": 375,
+      "rating": 5
+    }
+  },
+  {
+    "year": 2005,
+    "title": "Wybawiciel",
+    "info": {
+      "author": "Jo Nesbo",
+      "pagesNum": 429,
+      "rating": 4
+    }
+  },
+  {
+    "year": 2002,
+    "title": "Trzeci klucz",
+    "info": {
+      "author": "Jo Nesbo",
+      "pagesNum": 426,
+      "rating": 6
+    }
+  },
+  {
+    "year": 2000,
+    "title": "Czerwone gardło",
+    "info": {
+      "author": "Jo Nesbo",
+      "pagesNum": 423,
+      "rating": 3
+    }
+  }
+]
